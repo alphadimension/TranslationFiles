@@ -27,7 +27,7 @@
     <body>
       <trans-unit id="caedcb9e2005bf6e522cf4536a1885bd" approved="yes">
         <source>Log: You have a new alert from your shop</source>
-        <target state="final">Αρχείο καταγραφής: Έχετε μια νέα ειδοποίηση από το κατάστημά σας</target>
+        <target state="final">Αρχείο καταγραφής: Έχετε μια νέα ειδοποίηση από το κατάστημα σας</target>
         <note>Line: 119</note>
       </trans-unit>
     </body>
@@ -188,7 +188,7 @@
     <body>
       <trans-unit id="26fabd8660373b86b9288dd72fd40e13" approved="yes">
         <source>An answer to your message is available #ct%thread_id% #tc%thread_token%</source>
-        <target state="final">Μια απάντηση στο μήνυμά σας είναι διαθέσιμη #ct%thread_id% #tc%thread_token%</target>
+        <target state="final">Μια απάντηση στο μήνυμα σας είναι διαθέσιμη #ct%thread_id% #tc%thread_token%</target>
         <note>Line: 154</note>
       </trans-unit>
     </body>
